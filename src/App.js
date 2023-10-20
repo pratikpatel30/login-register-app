@@ -1,10 +1,15 @@
 
 import './App.css';
+import Home from './components/homepage/Home';
+import Login from './components/loginpage/Login';
+import Register from './components/registerpage/Register';
 
 function App() {
   return (
     <div>
-      <h1>Hello </h1>
+      <Home />
+      <Login />
+      <Register />
     </div>
   );
 }
