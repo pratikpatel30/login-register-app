@@ -6,7 +6,7 @@
     width: 50vw;
     height: 50vh;
     border-radius: 20px;
-    box-shadow: 0 015px 5px gray;
+    box-shadow: 0 0 15px 5px gray;
     background: white;
     position: relative;
 }
