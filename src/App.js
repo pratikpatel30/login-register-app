@@ -6,10 +6,10 @@ import Register from './components/registerpage/Register';
 
 function App() {
   return (
-    <div>
+    <div className='App'>
       <Home />
-      <Login />
-      <Register />
+      {/* <Login />
+      <Register /> */}
     </div>
   );
 }
